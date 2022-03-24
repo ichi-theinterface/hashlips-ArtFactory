@@ -7,7 +7,7 @@ const network = NETWORK.eth;
 // General metadata for Ethereum
 const namePrefix = "IchiroNFT";
 const description = "This is the collection created by Twitter@BiteChacha. I want to recored my improvement on this NFT smart contract.";
-const baseUri = "ipfs://NewUriToReplace";
+const baseUri = "ipfs://QmUAaNnazxA4yUboqNjAYf5Z1CWvGzmW3Swepf8QZcPkgW";
 
 const solanaMetadata = {
   symbol: "YC",
